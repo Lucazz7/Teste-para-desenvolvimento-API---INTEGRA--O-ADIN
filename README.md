@@ -1,4 +1,4 @@
-# Teste Para desenvolvimento API - INTEGRAÇÃO ADIM
+# Teste Para desenvolvimento API - INTEGRAÇÃO ADIN
 
 * Ferramentas utilizada no projeto.
     + Visual Studio Code.
